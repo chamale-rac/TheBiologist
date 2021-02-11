@@ -725,7 +725,7 @@ margin-right: 5vh;
 #services .room::after {
     content: 'Valle del Rift';
     position: absolute;
-    bottom: 10%; 
+    bottom: 13%; 
     left: 5%;
     color: #F29F05;
     font-size: 4rem;
@@ -736,7 +736,7 @@ margin-right: 5vh;
 #services .room2::before{
     content: 'Foto de Un Mundo Inmenso en Youtube';
     position: absolute;
-    bottom: 10%; 
+    bottom: 5%; 
     right: 5%;
     color: white;
     opacity: 0.4;
@@ -746,7 +746,7 @@ margin-right: 5vh;
 #services .room2::after {
     content: 'Placa Somalí';
     position: absolute;
-    bottom: 10%; 
+    bottom: 13%; 
     left: 5%;
     color: #F29F05;
     font-size: 4rem;
