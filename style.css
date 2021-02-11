@@ -383,7 +383,7 @@ span.k{
     color: white;
 }
 .fondo{
-    background-image: url(./img/riftvalley1.jpg);
+    background-image: url(riftvalley1.jpg);
     background-size: cover;
     background-position: top-center;
     position: relative;
@@ -515,7 +515,7 @@ span.k{
 /*End Grid Section*/
 /* Hero Section */  
 #hero{
-    background-image: url(./img/riftvalley1.jpg);
+    background-image: url(riftvalley1.jpg);
     background-size: cover;
     background-position: top-center;
     position: relative;
