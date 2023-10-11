@@ -1,2 +1,2 @@
-# TheBiologists
-A creative biology homework
+# Rift Valley
+Learning about Rift Valley phenomenon
